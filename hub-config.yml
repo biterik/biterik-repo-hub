@@ -4,3 +4,10 @@ title: "Erik Bitzek — repository fleet"
 repos:
   - biterik/repo-vitals
   - biterik/openbis-mcp-server
+  - biterik/arxiv-daily-digest
+  - biterik/BibTexer
+  - biterik/LEGO
+  - biterik/LEGO-TOOLS
+  - biterik/dcreator
+  - biterik/pdf-paper-renaming
+  - biterik/mc-sites-lammps
